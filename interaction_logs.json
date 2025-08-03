@@ -1,0 +1,29 @@
+[
+    {
+        "user_input": "Hi",
+        "bot_response": "Hello! How can I help you today?",
+        "tool_used": "greeting"
+    },
+    {
+        "user_input": "What is 12 times 7?",
+        "bot_response": "The calculator tool is being used.\nThe result is: 84",
+        "tool_used": "calculator",
+        "expression": "12 * 7"
+    },
+    {
+        "user_input": "Add 45 and 30",
+        "bot_response": "The calculator tool is being used.\nThe result is: 75",
+        "tool_used": "calculator",
+        "expression": "45 + 30"
+    },
+    {
+        "user_input": "What is the capital of France?",
+        "bot_response": "The capital of France is Paris.",
+        "tool_used": "LLM (direct)"
+    },
+    {
+        "user_input": "Multiply 9 and 8, and also tell me the capital of Japan.",
+        "bot_response": "I'm currently not able to handle multiple questions in a single input. Please ask one at a time.",
+        "tool_used": "none"
+    }
+]
