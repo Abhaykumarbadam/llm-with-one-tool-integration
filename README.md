@@ -1,5 +1,5 @@
 # LLM with One Tool Integration
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Abhaykumarbadam/llm-with-one-tool-integration)
+
 
 This repository demonstrates a simple chatbot that integrates a Large Language Model (Groq's Llama 3) with a local calculator tool. The application intelligently analyzes user input to decide whether to handle the query with the LLM for general knowledge or route it to the calculator for mathematical computations.
 
